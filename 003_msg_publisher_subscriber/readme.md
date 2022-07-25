@@ -2,9 +2,9 @@
 
 ### ROS Topic: Publisher and Subscriber
 
-![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/04.png)
+![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/figures/04.png)
 
-![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/07.png)
+![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/figures/07.png)
 
 ```bash
 ├── CMakeLists.txt

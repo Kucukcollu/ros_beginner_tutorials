@@ -2,13 +2,13 @@
 
 ### What is ROS ?
 
-![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/01.png)
+![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/figures/01.png)
 
 ### ROS Comminication Structure
 
-![ROS Comminication](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/02.png)
+![ROS Comminication](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/figures/02.png)
 
-![ROS Comminication Comparison](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/03.png)
+![ROS Comminication Comparison](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/figures/03.png)
 
 ###
 
