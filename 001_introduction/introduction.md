@@ -1,6 +1,6 @@
 # Introduction to ROS
 
-
+![ROS](https://github.com/Kucukcollu/ros_beginner_tutorials/blob/main/001_introduction/figures/01.png)
 
 ### Install deps
 ```bash
