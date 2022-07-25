@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_beginner_tutorials</name>
+  <version>0.0.1</version>
+  
+  <description>Includes basic C++ and Python implementations in ROS</description>
+
+  <maintainer email="kucukcollu@outlook.com">Ali Aydin Kucukcollu</maintainer>
+  <author email="kucukcollu@outlook.com">Ali Aydin Kucukcollu</author>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

@@ -1,2 +1,5 @@
 # ros_beginner_tutorials
-Includes basic C++ and Python implementations in ROS
+
+This repo includes basic introduction to ROS concepts such as messages, services, actions, etc.
+
+
