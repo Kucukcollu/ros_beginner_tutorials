@@ -27,3 +27,11 @@ This repo includes basic introduction to ROS concepts such as messages, services
 - Ubuntu 18.04 
 - ROS Melodic
 - VS Code with required extensions
+
+## TO-DO
+- launch files
+- ros commands
+- cfg
+- rviz
+- gazebo
+- rqt
